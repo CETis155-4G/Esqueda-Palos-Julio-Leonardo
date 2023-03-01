@@ -1,0 +1,18 @@
+/*Pone un degradado a la linea donde esta h1*/
+h1{
+    background: linear-gradient(180deg, #073042, #3ddc84);
+}
+/*Cambia color a la letra del texto de h2*/
+h2{
+    color: #0a4158;
+}
+/*Cambia color y tamaño de la letra del texto de p */
+p{
+    color: #707173;
+    font-family: Arial;
+    font-size: 3;
+}
+/*Le pone borde a las imagenes*/
+img{
+    border: solid #3ddc84;
+    }
