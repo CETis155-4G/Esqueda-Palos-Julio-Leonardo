@@ -1,0 +1,47 @@
+/*Pone un degradado a la linea donde esta h1*/
+h1{
+    font-size: 40px;
+    color: #4285f4;
+}
+/*Cambia color a la letra del texto de h2*/
+h2{
+    color: #0a4158;
+}
+/*Cambia color y tamaño de la letra del texto de p */
+p{
+    color: #707173;
+    font-family: Arial;
+    font-size: 3;
+}
+/*Le pone borde a las imagenes*/
+img{
+    border: solid #3ddc84;
+    }
+
+/*se le da formato al menu*/
+nav{
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 5px;
+    padding-left: 1%;
+    padding-right: 5%;
+    font-weight: bold;
+}
+
+ul li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+a{
+    color:#073042;
+    text-decoration: none;
+    font-size: 20px;
+
+}
+
+a:hover{
+    color: #3ddc84;
+}
